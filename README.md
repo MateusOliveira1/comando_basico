@@ -48,6 +48,8 @@ Comandos git
 >
 >git branch - lista as branchs
 >
->git checkout -B "nomedapasta" - cria uma branch
+>git checkout -B "nomedabranch" - cria uma branch
 >
 >git checkout troca de branch
+>
+>git branch -D "nomedabranch"

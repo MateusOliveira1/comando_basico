@@ -13,3 +13,13 @@ mv - move o arquivo
 pwd - mostra o path atual
 echo "texto" >> "pasta" - escrever no arquivo
 cat "nomedoarquivo" - imprime na tela
+
+comandos git 
+
+git config --global http.proxy http://10.1.118.254:3128
+git init - inicia o repositorio local
+git status -
+git add - 
+git commit -m 
+git diff 
+git show 

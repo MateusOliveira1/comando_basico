@@ -23,3 +23,4 @@ git add -
 git commit -m 
 git diff 
 git show 
+git clone url do github

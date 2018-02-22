@@ -52,4 +52,6 @@ Comandos git
 >
 >git checkout troca de branch
 >
->git branch -D "nomedabranch"
+>git branch -D "nomedabranch" - deleta a branch
+>
+>git merge anexa uma branch em outra

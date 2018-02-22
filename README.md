@@ -48,3 +48,4 @@ Comandos git
 >
 >git branch - lista as branchs
 >
+>git checkout -B "nomedapasta"

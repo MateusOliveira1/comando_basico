@@ -36,7 +36,7 @@ Comandos git
 >
 >git status -
 >
->git add - 
+>git add . - 
 >
 >git commit -m 
 >
@@ -44,14 +44,14 @@ Comandos git
 >
 >git show 
 >
->git clone url do github
+>git clone "url_do_github"
 >
 >git branch - lista as branchs
 >
 >git checkout -B "nomedabranch" - cria uma branch
 >
->git checkout troca de branch
+>git checkout - troca de branch
 >
 >git branch -D "nomedabranch" - deleta a branch
 >
->git merge anexa uma branch em outra
+>git merge - anexa uma branch em outra

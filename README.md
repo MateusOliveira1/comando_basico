@@ -1,4 +1,4 @@
->comandos linux
+##Comandos linux##
 >
 >ls - listar
 >
@@ -27,7 +27,7 @@
 >cat "nomedoarquivo" - imprime na tela
 >
 >
->comandos git 
+##Comandos git##
 >
 >
 >git config --global http.proxy http://10.1.118.254:3128
